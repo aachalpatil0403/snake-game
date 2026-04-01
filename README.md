@@ -34,7 +34,5 @@ When the game ends, press:
 #Dependencies
 Python
 Pygame
-License
-
-This project is licensed under the MIT License.
+License.
 
