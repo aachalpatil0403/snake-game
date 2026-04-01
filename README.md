@@ -25,14 +25,12 @@ How to Play
 *RIGHT → Move right
 *Eat the green squares to grow your snake.
 
-Avoid hitting the walls or your own tail.
-When the game ends, press:
+Avoid hitting the walls or your own tail. When the game ends, press:
 ~C to play again
 ~Q to quit
 
 
 #Dependencies
 Python
-Pygame
-License.
+Pygame.
 
